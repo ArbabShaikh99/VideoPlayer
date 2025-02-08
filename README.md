@@ -26,7 +26,6 @@
 
       # 🚀 VideoPro: The Ultimate Video Playback Experience! 🎥
 
-![VideoPro Banner](https://your-image-link.com/banner.png)  
 
 ## 🎬 About VideoPro
 VideoPro is a **powerful and feature-rich video player app** built with **Jetpack Compose** and **ExoPlayer** for smooth and high-quality playback. Designed for efficiency and ease of use, VideoPro allows users to explore and manage their video collections seamlessly.
@@ -42,12 +41,6 @@ VideoPro is a **powerful and feature-rich video player app** built with **Jetpac
 
 ---
 
-## 📸 Screenshots
-
-![Screenshot 1](https://your-image-link.com/screenshot1.png)  
-![Screenshot 2](https://your-image-link.com/screenshot2.png)  
-
----
 
 ## 🔧 Tech Stack
 - **Kotlin** 🛠️
@@ -55,7 +48,7 @@ VideoPro is a **powerful and feature-rich video player app** built with **Jetpac
 - **ExoPlayer** 🎥
 - **Room Database** 🗄️
 - **Hilt (Dependency Injection)** ⚡
-- **MediaStore API** 📂
+- **Storage Permission API** 📂
 
 ---
 
@@ -69,7 +62,7 @@ Make sure you have the following installed:
 ### Installation
 1. **Clone the Repository**
 ```bash
- git clone https://github.com/yourusername/VideoPro.git
+ git clone https://github.com/ArbabShaikh99/VideoPro.git
 ```
 2. **Open in Android Studio**
 3. **Run the App on Emulator or Real Device**
@@ -82,11 +75,7 @@ Make sure you have the following installed:
 ---
 
 ## 📬 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yourprofile/)  
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/yourprofile/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arbab-shaikh/)  
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/application.developer_/)  
 
----
 
-## 📜 License
-MIT License. See the [LICENSE](LICENSE) file for more details.
-   
