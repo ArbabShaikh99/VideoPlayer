@@ -24,7 +24,6 @@
 </table>
 
 
-      # 🚀 VideoPro: The Ultimate Video Playback Experience! 🎥
 
 
 ## 🎬 About VideoPro
