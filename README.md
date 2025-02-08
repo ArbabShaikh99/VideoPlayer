@@ -17,7 +17,11 @@
       <img src="https://github.com/user-attachments/assets/492460e1-2d79-4ef5-94f4-48666a2555de" alt="All Folders" width="300">
     </td>
     <td></td>
-    <td>
+    <td>   <img src="https://github.com/user-attachments/assets/ebc35bda-f11a-44f9-b557-c76b16e3a508" alt="All Videos" width="300">
+    </td>
+    </td>
+  </tr>
+</table>
 
 
       # 🚀 VideoPro: The Ultimate Video Playback Experience! 🎥
@@ -85,8 +89,4 @@ Make sure you have the following installed:
 
 ## 📜 License
 MIT License. See the [LICENSE](LICENSE) file for more details.
-      <img src="https://github.com/user-attachments/assets/ebc35bda-f11a-44f9-b557-c76b16e3a508" alt="All Videos" width="300">
-    </td>
-    </td>
-  </tr>
-</table>
+   
